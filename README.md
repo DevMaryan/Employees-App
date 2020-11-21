@@ -8,7 +8,7 @@ Employees Application
   <li>Delete Employee</li>
   <li>Update Employee</li>
 </ul>
-<h3>Employee information<h3>
+<h3>Employee information</h3>
 <ul>
   <li>Name</li>
   <li>Surname</li>
@@ -19,4 +19,5 @@ Employees Application
 </ul>
 
 <img src="https://i.ibb.co/KKvyKkg/1sc.png" alt="1sc" border="0">
+<br>
 <img src="https://i.ibb.co/ckQLJ6g/2sc.png" alt="2sc" border="0">
